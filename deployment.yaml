@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: sit323-737-2023-t1-prac7c
-          image: vrushali92/repo_1:latest
+          image: mukulksingh98/sit737:latest
           ports:
             - containerPort: 3000
           
